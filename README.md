@@ -3,7 +3,7 @@
 ### Application
 Like the webinars are too long approx. 1-2 hours.
 Attending the full webinar might not be possible all the times.
-So using this, you can achieve a audio/text summary, include the key points.
+So using this, you can achieve a audio/text summary, which include the key points.
 This can have many more applications for researchers/teachers etc.
 This can work the link of any downloadable link, YouTube video link and, Google cloud sharing link as well.
 
